@@ -43,7 +43,7 @@ passed in as parameters) is always nice for users too::
 
     - hosts: servers
       roles:
-         - nensible-ltx14lizardbox
+         - nensible-lts14lizardbox
 
 
 License
