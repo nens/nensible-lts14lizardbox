@@ -4,9 +4,11 @@
 # vars file for nensible-lts14lizardbox
 lts14lizardbox_packages:
   - build-essential
+  - curl
   - gettext
   - git
   - libevent-dev
+  - lynx-cur
   - memcached
   - nginx
   - python-dev
@@ -21,3 +23,4 @@ lts14lizardbox_packages:
   - python-psycopg2
   - python-scipy
   - python-tornado
+  - unzip
