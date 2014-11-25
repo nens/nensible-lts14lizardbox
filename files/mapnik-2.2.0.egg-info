@@ -1,0 +1,5 @@
+# Temporary measure to fix https://bugs.launchpad.net/ubuntu/+source/mapnik/+bug/1380546
+# Copied here by ansible (nensible-lts14lizardbox).
+Metadata-Version: 1.1
+Name: mapnik
+Version: 2.2.0

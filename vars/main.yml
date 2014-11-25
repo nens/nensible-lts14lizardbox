@@ -1,0 +1,23 @@
+# https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=725048 : python-nose and
+# python-tornado is needed for matplotlib-syseggrecipe-recognition.
+---
+# vars file for nensible-lts14lizardbox
+lts14lizardbox_packages:
+  - build-essential
+  - gettext
+  - git
+  - libevent-dev
+  - memcached
+  - nginx
+  - python-dev
+  - python-gdal
+  - python-imaging
+  - python-lxml
+  - python-mapnik
+  - python-matplotlib
+  - python-nose
+  - python-pandas
+  - python-pil
+  - python-psycopg2
+  - python-scipy
+  - python-tornado
