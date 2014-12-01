@@ -8,6 +8,7 @@ lts14lizardbox_packages:
   - gettext
   - git
   - libevent-dev
+  - libncurses-dev
   - libreadline-dev
   - lynx-cur
   - memcached
